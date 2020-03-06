@@ -3,7 +3,7 @@ package assignment4Customer;
 public class Customer {
 	
 	private String address = null;
-			int address2 = 0;
+				int address2 = 0;
 	protected String contact = null;
 	public float phone = 0.0f;
 	
